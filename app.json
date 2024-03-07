@@ -17,6 +17,9 @@
       ]
     ],
     "name": "teste-update",
-    "slug": "teste-update"
+    "slug": "teste-update",
+    "android": {
+      "package": "com.cleversystems.testeupdate"
+    }
   }
 }
